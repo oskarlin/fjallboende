@@ -396,6 +396,81 @@
           63.322019612837444
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "shelter",
+        "name": "Ljungan",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 920,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.656711339950562,
+          62.975694808389875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "shelter",
+        "name": "Hulke",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 920,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475748062133789,
+          62.98685607007524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "shelter",
+        "name": "Stäntja",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 990,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.609171867370605,
+          63.09290865864783
+        ]
+      }
     }
   ]
 }
