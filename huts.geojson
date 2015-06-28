@@ -177,7 +177,7 @@
       "type": "Feature",
       "properties": {
         "kind": "station",
-        "name": "Vålådalens fjällstation",
+        "name": "Vålådalen",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Valadalen-Fjallstation/",
         "beds": "",
@@ -202,16 +202,98 @@
       "type": "Feature",
       "properties": {
         "kind": "station",
-        "name": "Helags fjällstation",
+        "name": "Helags",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstationer/STF-Helags-Fjallstation/",
-        "beds": ""
+        "beds": 80,
+        "sauna": 1,
+        "shop": 1,
+        "vegetation": 3,
+        "elevation": "",
+        "email": "fjallbokning@stfturist.se",
+        "host": 1,
+        "emergency": 0,
+        "bookable": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           12.505466938018799,
           62.91690363694292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "station",
+        "name": "Sylarna",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Sylarna-Fjallstation/",
+        "beds": 120,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "sylarna@stfturist.se",
+        "elevation": "",
+        "vegetation": 3,
+        "sauna": 1,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.273058891296387,
+          63.0428708209205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "station",
+        "name": "Blåhammaren",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Blahammarens-Fjallstation/",
+        "beds": 64,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "vegetation": 3,
+        "sauna": 1,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.17461109161377,
+          63.185695209424146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "station",
+        "name": "Storulvån",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Storulvan-Fjallstation/",
+        "beds": 148,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "elevation": "",
+        "vegetation": 2,
+        "sauna": 1,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.362215518951416,
+          63.16913842429667
         ]
       }
     }
