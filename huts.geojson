@@ -9,7 +9,10 @@
         "free": 0,
         "website": "http://vallbofjallgard.se",
         "beds": "",
-        "bookable": 1
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "info@vallbofjallgard.se"
       },
       "geometry": {
         "type": "Point",
@@ -27,13 +30,37 @@
         "free": 0,
         "website": "http://www.vallbo.nu",
         "beds": "",
-        "bookable": 1
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           13.070640563964844,
           63.157332307783115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Lunndörrstugan",
+        "free": 0,
+        "website": "",
+        "beds": "",
+        "bookable": 0,
+        "emergency": 0,
+        "host": 1,
+        "email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.063602447509766,
+          63.062173057876976
         ]
       }
     }
