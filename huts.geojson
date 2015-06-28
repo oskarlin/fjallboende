@@ -296,6 +296,31 @@
           63.16913842429667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Fältjägaren",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstugor/STF-Fjallstuga-Faltjagaren/",
+        "beds": 20,
+        "elevation": 1048,
+        "email": "fjallbokning@stfturist.se",
+        "host": 1,
+        "bookable": 0,
+        "emergency": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.445836067199707,
+          62.8180380415647
+        ]
+      }
     }
   ]
 }
