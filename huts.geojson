@@ -321,6 +321,81 @@
           62.8180380415647
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "pensionat",
+        "name": "Enaforsholm",
+        "free": 0,
+        "website": "http://enaforsholm.se/",
+        "beds": 70,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "info@enaforsholm.se",
+        "elevation": "",
+        "vegetation": 1,
+        "sauna": 1,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33116626739502,
+          63.28450941573445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "pensionat",
+        "name": "Camp Ånn",
+        "free": 0,
+        "website": "http://campann.se/",
+        "beds": 195,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "info@campann.se",
+        "elevation": "",
+        "vegetation": 1,
+        "sauna": 1,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.515294551849365,
+          63.31762136875724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "vandrarhem",
+        "name": "Ånns värdshus",
+        "free": 0,
+        "website": "http://www.annsvardshus.se/",
+        "beds": "",
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "info@annsvardshus.se",
+        "elevation": "",
+        "vegetation": 1,
+        "sauna": "",
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.539691925048828,
+          63.322019612837444
+        ]
+      }
     }
   ]
 }
