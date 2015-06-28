@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "pensionat",
+        "name": "Vallbogården",
+        "free": 0,
+        "website": "http://vallbofjallgard.se",
+        "beds": "",
+        "bookable": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07121992111206,
+          63.156971388696654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "pensionat",
+        "name": "Per-Olsgården",
+        "free": 0,
+        "website": "http://www.vallbo.nu",
+        "beds": "",
+        "bookable": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.070640563964844,
+          63.157332307783115
+        ]
+      }
+    }
+  ]
+}
