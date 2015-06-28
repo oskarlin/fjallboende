@@ -12,7 +12,9 @@
         "bookable": 1,
         "emergency": 0,
         "host": 1,
-        "email": "info@vallbofjallgard.se"
+        "email": "info@vallbofjallgard.se",
+        "elevation": "",
+        "vegetation": 1
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
         "bookable": 1,
         "emergency": 0,
         "host": 1,
-        "email": ""
+        "email": "",
+        "vegetation": 1
       },
       "geometry": {
         "type": "Point",
@@ -54,13 +57,105 @@
         "bookable": 0,
         "emergency": 0,
         "host": 1,
-        "email": ""
+        "email": "",
+        "vegetation": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.063602447509766,
-          63.062173057876976
+          13.06276,
+          63.062401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Vålåstugorna",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Valavalen-Valastugorna/",
+        "beds": 44,
+        "bookable": 0,
+        "emergency": 0,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "vegetation": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.799565792083738,
+          63.04035134879979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Stensdalen",
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Stensdalen/",
+        "free": 0,
+        "beds": 34,
+        "elevation": 750,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.74038016796112,
+          63.12791842234545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Anaris",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Anaris/",
+        "beds": 16,
+        "bookable": 0,
+        "emergency": 0,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "elevation": 834,
+        "vegetation": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.340696096420288,
+          63.08998077621006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "hut",
+        "name": "Gåsen",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Gasen/",
+        "beds": 48,
+        "bookable": 0,
+        "emergency": 0,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "elevation": 1090,
+        "vegetation": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544069290161133,
+          63.049630490144885
         ]
       }
     }
