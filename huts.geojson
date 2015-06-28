@@ -14,7 +14,9 @@
         "host": 1,
         "email": "info@vallbofjallgard.se",
         "elevation": "",
-        "vegetation": 1
+        "vegetation": 1,
+        "sauna": 1,
+        "shop": 0
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,9 @@
         "emergency": 0,
         "host": 1,
         "email": "",
-        "vegetation": 1
+        "vegetation": 1,
+        "sauna": "",
+        "shop": 0
       },
       "geometry": {
         "type": "Point",
@@ -58,7 +62,9 @@
         "emergency": 0,
         "host": 1,
         "email": "",
-        "vegetation": 2
+        "vegetation": 2,
+        "sauna": 1,
+        "shop": 1
       },
       "geometry": {
         "type": "Point",
@@ -80,7 +86,9 @@
         "emergency": 0,
         "host": 1,
         "email": "fjallbokning@stfturist.se",
-        "vegetation": 2
+        "vegetation": 2,
+        "sauna": 0,
+        "shop": 1
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +111,9 @@
         "email": "fjallbokning@stfturist.se",
         "emergency": 0,
         "bookable": 0,
-        "vegetation": 2
+        "vegetation": 2,
+        "sauna": 1,
+        "shop": 1
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +136,9 @@
         "host": 1,
         "email": "fjallbokning@stfturist.se",
         "elevation": 834,
-        "vegetation": 2
+        "vegetation": 2,
+        "sauna": 0,
+        "shop": 1
       },
       "geometry": {
         "type": "Point",
@@ -149,13 +161,57 @@
         "host": 1,
         "email": "fjallbokning@stfturist.se",
         "elevation": 1090,
-        "vegetation": 3
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           12.544069290161133,
           63.049630490144885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "station",
+        "name": "Vålådalens fjällstation",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Valadalen-Fjallstation/",
+        "beds": "",
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "info@valadalen.se",
+        "elevation": "",
+        "vegetation": 1,
+        "sauna": 1,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.966313362121582,
+          63.14902518622003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "station",
+        "name": "Helags fjällstation",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstationer/STF-Helags-Fjallstation/",
+        "beds": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.505466938018799,
+          62.91690363694292
         ]
       }
     }
