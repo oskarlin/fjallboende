@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "pensionat",
+        "type": "pensionat",
         "name": "Vallbogården",
         "free": 0,
         "website": "http://vallbofjallgard.se",
@@ -29,7 +29,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "pensionat",
+        "type": "pensionat",
         "name": "Per-Olsgården",
         "free": 0,
         "website": "http://www.vallbo.nu",
@@ -53,7 +53,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Lunndörrstugan",
         "free": 0,
         "website": "",
@@ -77,7 +77,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Vålåstugorna",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Valavalen-Valastugorna/",
@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Stensdalen",
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Stensdalen/",
         "free": 0,
@@ -126,7 +126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Anaris",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Anaris/",
@@ -151,7 +151,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Gåsen",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstugor/STF-Fjallstuga-Gasen/",
@@ -176,7 +176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "station",
+        "type": "station",
         "name": "Vålådalen",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Valadalen-Fjallstation/",
@@ -201,7 +201,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "station",
+        "type": "station",
         "name": "Helags",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstationer/STF-Helags-Fjallstation/",
@@ -226,7 +226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "station",
+        "type": "station",
         "name": "Sylarna",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Sylarna-Fjallstation/",
@@ -251,7 +251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "station",
+        "type": "station",
         "name": "Blåhammaren",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Blahammarens-Fjallstation/",
@@ -275,7 +275,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "station",
+        "type": "station",
         "name": "Storulvån",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Jamtland/Fjallstationer/STF-Storulvan-Fjallstation/",
@@ -300,7 +300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "hut",
+        "type": "hut",
         "name": "Fältjägaren",
         "free": 0,
         "website": "http://www.svenskaturistforeningen.se/sv/upptack/Omraden/Harjedalen/Fjallstugor/STF-Fjallstuga-Faltjagaren/",
@@ -325,7 +325,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "pensionat",
+        "type": "pensionat",
         "name": "Enaforsholm",
         "free": 0,
         "website": "http://enaforsholm.se/",
@@ -350,7 +350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "pensionat",
+        "type": "pensionat",
         "name": "Camp Ånn",
         "free": 0,
         "website": "http://campann.se/",
@@ -375,7 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "vandrarhem",
+        "type": "vandrarhem",
         "name": "Ånns värdshus",
         "free": 0,
         "website": "http://www.annsvardshus.se/",
@@ -400,7 +400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "shelter",
+        "type": "shelter",
         "name": "Ljungan",
         "free": 1,
         "website": "",
@@ -425,7 +425,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "shelter",
+        "type": "shelter",
         "name": "Hulke",
         "free": 1,
         "website": "",
@@ -450,7 +450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "kind": "shelter",
+        "type": "shelter",
         "name": "Stäntja",
         "free": 1,
         "website": "",
