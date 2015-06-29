@@ -375,7 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "vandrarhem",
+        "type": "hostel",
         "name": "Ånns värdshus",
         "free": 0,
         "website": "http://www.annsvardshus.se/",
@@ -469,6 +469,81 @@
         "coordinates": [
           12.609171867370605,
           63.09290865864783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hostel",
+        "name": "STF Vandrarhem Ljungdalen",
+        "free": 0,
+        "website": "http://www.svenskaturistforeningen.se/upptack/Omraden/Harjedalen/Vandrarhem/STF-Vandrarhem-Ljungdalen/",
+        "beds": 40,
+        "bookable": 1,
+        "emergency": 0,
+        "host": 1,
+        "email": "egyllensvaan@gmail.com",
+        "elevation": "",
+        "vegetation": 1,
+        "sauna": "",
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.789437770843506,
+          62.850984542242266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Miesehketjahke",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 900,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.361679077148438,
+          62.98362023047861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Ekorrdörren",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 1100,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.275119,
+          62.98362
         ]
       }
     }
