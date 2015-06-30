@@ -646,6 +646,56 @@
           63.144198259058975
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Gamla Sylen",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 940,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.277650833129883,
+          63.059626089770944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Spåime",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 885,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.324042320251465,
+          63.105942168687434
+        ]
+      }
     }
   ]
 }
