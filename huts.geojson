@@ -546,6 +546,106 @@
           62.98362
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Enkälen",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 880,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.241945266723633,
+          63.121894799181185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Ulvåtjärn",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 840,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.261514663696289,
+          63.16067241285625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Snasahögarna",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 1160,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.303507328033445,
+          63.207640141151685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Endalen",
+        "free": 1,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 780,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.114486694335938,
+          63.144198259058975
+        ]
+      }
     }
   ]
 }
