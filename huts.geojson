@@ -973,6 +973,232 @@
           68.13661435509377
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Saltoluokta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.520545959472656,
+          67.39396408218417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Sitojaure",
+        "free": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.441109657287598,
+          67.23322928620993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Aktse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.305878043174744,
+          67.1484842237343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Pårte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.943077087402344,
+          67.04227062988774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Njunjes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.411398887634277,
+          66.96029452149911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Tarrekaise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.29175090789795,
+          66.99013904152807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Kvikkjokk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.719573974609375,
+          66.95372650504054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Vaimok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88623309135437,
+          67.04675632411295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Såmmarlappa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.15815544128418,
+          67.06803533042205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Darreluoppal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.123608589172363,
+          67.19303484535523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Duottar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.031941413879395,
+          67.2684527041087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Staloluokta",
+        "free": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6956889629364,
+          67.3187627379309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Arasluokta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.800949573516846,
+          67.37368146400772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Tjäktja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.24108123779297,
+          68.05137150388963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Kårsavagge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.50119113922119,
+          68.33440762902607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Unna Allakas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.185484409332272,
+          68.20411658192445
+        ]
+      }
     }
   ]
 }
