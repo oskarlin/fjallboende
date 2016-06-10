@@ -1199,6 +1199,34 @@
           68.20411658192445
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Nallo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.394031524658203,
+          68.0170108708448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Vistas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5963773727417,
+          68.0312477166839
+        ]
+      }
     }
   ]
 }
