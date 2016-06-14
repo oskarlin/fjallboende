@@ -1219,7 +1219,8 @@
       "properties": {
         "type": "hut",
         "name": "Vistas",
-        "host": ""
+        "host": "",
+        "sauna": ""
       },
       "geometry": {
         "type": "Point",
@@ -1249,6 +1250,100 @@
         "coordinates": [
           18.335538,
           67.469755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "MÃ¥rma",
+        "free": 0,
+        "website": "",
+        "beds": 1,
+        "bookable": 0,
+        "emergency": 0,
+        "host": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.765635,
+          68.09582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Unna Räita",
+        "free": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.463131,
+          67.983031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotel",
+        "name": "Riksgränsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.12443733215332,
+          68.42645599489897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Katterjåkk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.161720037460324,
+          68.41974465557067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Låktatjåkka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.460872173309326,
+          68.39868237695097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotel",
+        "name": "Björkliden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67572784423828,
+          68.40665162763887
         ]
       }
     }
