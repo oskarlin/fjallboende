@@ -1218,13 +1218,37 @@
       "type": "Feature",
       "properties": {
         "type": "hut",
-        "name": "Vistas"
+        "name": "Vistas",
+        "host": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           18.5963773727417,
           68.0312477166839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "SjÃ¶fallsstugan",
+        "free": 0,
+        "website": "",
+        "beds": "",
+        "bookable": "",
+        "host": 0,
+        "emergency": 0,
+        "shop": 0,
+        "sauna": 0,
+        "vegetation": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.335538,
+          67.469755
         ]
       }
     }
