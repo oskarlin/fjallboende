@@ -10,7 +10,7 @@ Hjälp gärna till att komplettera listan!
 2. Gå till __huts.geojson__ och öppna den. 
 3. Klicka på __Fork and edit this file__.  
 4. Surfa in på http://geojson.io/ och öppna huts.geojson.
-5. Pluppa ut platser där det finns cykelpumpar!
+5. Pluppa ut platser där det finns fjällboende!
 6. Spara och skriv in ett commit-meddelande, typ "nytt vindskydd i Funäsdalen".
 7. Gå tillbaka till GitHub där du kommer se en Pull request-sida.  
 8. Fyll i formuläret, klicka på __Send pull request__.
