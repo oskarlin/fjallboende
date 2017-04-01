@@ -1256,6 +1256,29 @@
     {
       "type": "Feature",
       "properties": {
+        "type": "hut",
+        "name": "Pieskehaure",
+        "free": 0,
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-pieskehaure-fjallstuga/",
+        "beds": "26",
+        "bookable": "0",
+        "host": 1,
+        "emergency": 0,
+        "shop": 1,
+        "sauna": 1,
+        "vegetation": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.529789,
+          67.031689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "type": "shelter",
         "name": "MÃ¥rma",
         "free": 0,
