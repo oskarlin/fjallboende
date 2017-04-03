@@ -1383,6 +1383,197 @@
           67.614156997758
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Guijaure",
+        "free": 0,
+        "website": "http://www.vuoggatjalme.se",
+        "beds": "",
+        "bookable": 1,
+        "emergency": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.028130054473877,
+          66.56313507783113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Serve",
+        "free": 0,
+        "beds": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.764254331588745,
+          65.97227236805348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Tärnasjö",
+        "free": 0,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.497245788574219,
+          65.98879762625388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Skidbävken",
+        "free": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5401611328125,
+          66.0839367397788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Dalavardo",
+        "free": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.648608207702635,
+          66.1878320686931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Mankeforsen",
+        "free": 1,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.84726333618164,
+          66.17684460267768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Västra Vitnjul",
+        "free": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.008710861206055,
+          66.14965004615412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Östra Vitnjul",
+        "free": 0,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.01609230041504,
+          66.14739408373904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Rävfallsstugan",
+        "free": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.119089126586914,
+          66.09539929700034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Aigert",
+        "free": 0,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.094627380371094,
+          65.94136364221316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Laisstugan",
+        "free": 0,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.926828384399412,
+          66.41008517049539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Vindelkroken",
+        "free": 1,
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.536384582519531,
+          66.27238289380156
+        ]
+      }
     }
   ]
 }
