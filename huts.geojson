@@ -1148,6 +1148,81 @@
       "type": "Feature",
       "properties": {
         "type": "hut",
+        "name": "Staddajåkkå",
+        "website": "http://padjelanta.com/stugor/staddajahka/",
+        "free": 0,
+        "beds": 18,
+        "elevation": 700,
+        "host": 1,
+        "email": "padjelanta@padjelanta.com",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.591254,
+          67.2409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Sårjåsjaure",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-sarjasjaure-fjallstuga/",
+        "free": 0,
+        "beds": 8,
+        "elevation": 820,
+        "host": 0,
+        "email": "fjallbokningen@stfturist.se",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.477442,
+          67.232557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Tarraälvshyddan",
+        "website": "",
+        "free": 1,
+        "beds": 1,
+        "elevation": 520,
+        "host": 0,
+        "email": "",
+        "emergency": 1,
+        "bookable": 0,
+        "vegetation": 2,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.231573,
+          67.004756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
         "name": "Arasluokta"
       },
       "geometry": {
@@ -1432,6 +1507,156 @@
         "coordinates": [
           15.497245788574219,
           65.98879762625388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Syter",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-syter-fjallstuga/",
+        "free": 0,
+        "beds": 28,
+        "elevation": 720,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 2,
+        "sauna": 0,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.39708,
+          65.89267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Viterskalet",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-syter-fjallstuga/",
+        "free": 0,
+        "beds": 24,
+        "elevation": 810,
+        "host": 1,
+        "email": "fjallbokning@stfturist.se",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.16053,
+          65.88629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Syterskalet",
+        "free": 1,
+        "website": "",
+        "beds": 2,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 860,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.289411,
+          65.873734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Vuomatjåhkka",
+        "free": 1,
+        "website": "",
+        "beds": 2,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 880,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.891711,
+          65.954934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Juovvatjåhkka",
+        "free": 1,
+        "website": "",
+        "beds": 2,
+        "bookable": 0,
+        "emergency": 1,
+        "host": 0,
+        "email": "",
+        "elevation": 1075,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.954624,
+          65.92314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hut",
+        "name": "Jirestugan",
+        "website": "http://www.vindelfjallen.se/besokare/stugor-kojor-och-rastskyddmankeforsstugan/jirestugan",
+        "free": 0,
+        "beds": 4,
+        "elevation": 780,
+        "host": 0,
+        "email": "",
+        "emergency": 0,
+        "bookable": 0,
+        "vegetation": 3,
+        "sauna": 0,
+        "shop": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.225533,
+          66.004174
         ]
       }
     },
