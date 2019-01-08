@@ -27,9 +27,12 @@ Till varje punkt finns ett antal kolumner att fylla i:
 6. __bookable__. Bokningsbar (1 eller 0)
 7. __emergency__. Om man bara får bo över i nödfall (1 eller 0)
 8. __host__. Stugvärd/anställda eller inte (1 eller 0)
-9. __email__. Epost
+9. __email__. E-post
 10. __elevation__. Höjd över havet
-
+11. __vegetation__. Växtzon. 1=barrskog, 2=fjällbjörkskog, 3=kalfjäll
+12. __sauna__. Om det finns bastu. (1 eller 0)
+13. __shop__. Om det finns butik. (1 eller 0)
+14. __note__. Annan info så som telefonnumemr till bokning.
 
 
 ### Licens
