@@ -2867,7 +2867,8 @@
         "website": "",
         "beds": "",
         "bookable": "",
-        "emergency": 1
+        "emergency": 1,
+        "shop": ""
       },
       "geometry": {
         "type": "Point",
@@ -2910,6 +2911,118 @@
         "coordinates": [
           14.28870677947998,
           64.65937764199239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Klumplidklumpen",
+        "free": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.13090705871582,
+          64.69970609709766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.931565284729002,
+          64.75810766844315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Anjans fjällstation",
+        "free": 0,
+        "website": "https://www.facebook.com/Anjans-Fjällstation-116463735135783/",
+        "beds": "",
+        "bookable": 1,
+        "host": 1,
+        "vegetation": 1,
+        "sauna": "",
+        "shop": "",
+        "note": "Endast öppet under sommaren",
+        "elevation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.63028621673584,
+          63.71091946149345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Kolåsen fjällstation",
+        "free": 0,
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-kolasen-fjallstation/",
+        "beds": "",
+        "bookable": 1,
+        "host": 1,
+        "vegetation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.959790229797363,
+          63.750626174058816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "station",
+        "name": "Jänsmässholmens fjällhotell",
+        "free": 0,
+        "website": "https://www.jansmassholmen.se",
+        "bookable": 1,
+        "host": 1,
+        "vegetation": 1,
+        "sauna": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.820629119873047,
+          63.78069433505879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "pensionat",
+        "name": "Ewas Pensionat",
+        "free": "",
+        "website": "http://www.turistkompaniet.nu/10570.evas_pensionat.html",
+        "bookable": 1,
+        "host": 1,
+        "vegetation": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.040098190307617,
+          63.828263624069685
         ]
       }
     }
