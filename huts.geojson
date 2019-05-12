@@ -3025,6 +3025,76 @@
           63.828263624069685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gåsån",
+        "type": "shelter",
+        "bookable": "",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.465362548828125,
+          63.05898445198707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Lunndörrspasset",
+        "free": "",
+        "website": "",
+        "bookable": "",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.090038299560547,
+          62.976328531288594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Dörrsjön",
+        "free": "",
+        "website": "",
+        "beds": "",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.203163146972656,
+          63.002562341340436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Ottfjället",
+        "free": "",
+        "beds": "",
+        "bookable": "",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92940616607666,
+          63.19709549118812
+        ]
+      }
     }
   ]
 }
