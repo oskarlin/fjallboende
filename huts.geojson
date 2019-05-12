@@ -3095,6 +3095,74 @@
           63.19709549118812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sitejokken",
+        "type": "shelter",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.420585632324219,
+          64.53309143565805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hotel",
+        "name": "Rörvattnets Fjällhotell",
+        "free": "",
+        "website": "https://rorvattnet.wixsite.com/hotell",
+        "bookable": 1,
+        "host": 1,
+        "email": "info@rorvattnet.se",
+        "elevation": "",
+        "vegetation": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.07125473022461,
+          63.96247607453506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "hostel",
+        "name": "Storliens fjällgård",
+        "free": "",
+        "website": "https://www.svenskaturistforeningen.se/anlaggningar/stf-storliens-fjallgard-vandrarhem/",
+        "bookable": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.119979858398438,
+          63.286380780304505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "shelter",
+        "name": "Svalåtjärn",
+        "emergency": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325286865234375,
+          62.614351716308015
+        ]
+      }
     }
   ]
 }
